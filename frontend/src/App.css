@@ -1,0 +1,16 @@
+textarea {
+    width: 80%;
+    height: 100px;
+    margin: 10px;
+  }
+  
+  button {
+    display: block;
+    margin: 10px;
+  }
+  
+  .App {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
